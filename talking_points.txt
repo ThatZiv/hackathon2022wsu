@@ -3,18 +3,19 @@ Hackathon '22 project:
 - Folder/directories 
 - Agenda/Notepad
 - Chrome
-  > Incognito
-  > New Tab
+  1. Incognito
+  2. New Tab
 * Stage 2 (octave -1):
 - Web Bookmarks
-  > do 2nd and 3rd keys
-  > then do first key to show yt vid
-  > with utube video playing,
-	> Multi-media keys (play/pause)
-	> Use volume knob to change volume (show partials)
-  > close utube video
-  > Volume Knob -> 100%
-  > Mute/Defen Discord 
+  1. do 2nd and 3rd keys
+  2. then do first key to show yt vid
+  3. with utube video playing,
+	4. Multi-media keys (play/pause)
+	5. Use volume knob to change volume (show partials)
+  6. Mute/Unmute (Show light status)
+  7. close utube video
+  8. Volume Knob -> 100%
+  9. Mute/Deafen Discord 
 * Stage 3 (octave 0):
 - Screen Saver
 * Stage 4:

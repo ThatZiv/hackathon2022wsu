@@ -1,1 +1,1 @@
-"# hackathon2022wsu" 
+# Hackathon 2022 WSU
