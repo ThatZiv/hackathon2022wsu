@@ -1,0 +1,23 @@
+Hackathon '22 project:
+* Stage 1 (octave 0):
+- Folder/directories 
+- Agenda/Notepad
+- Chrome
+  > Incognito
+  > New Tab
+* Stage 2 (octave -1):
+- Web Bookmarks
+  > do 2nd and 3rd keys
+  > then do first key to show yt vid
+  > with utube video playing,
+	> Multi-media keys (play/pause)
+	> Use volume knob to change volume (show partials)
+  > close utube video
+  > Volume Knob -> 100%
+  > Mute/Defen Discord 
+* Stage 3 (octave 0):
+- Screen Saver
+* Stage 4:
+- Ch.up
+- Ch.down
+ ^ Show the HUD physically alongside btn switching
