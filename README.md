@@ -1,7 +1,7 @@
 
 # `MIDI Macros` - Hackathon 2022 WSU
 
-`MIDI Macros` allows users to bind efficient shortcuts/macros to their MIDI keyboard and increase productivity while working. 
+`MIDI Macros` allows users to bind efficient shortcuts/macros to their MIDI keyboard and increase productivity while working at home. 
 
 [![Click Me](https://img.youtube.com/vi/MZsUFm2aQ58/0.jpg)](https://www.youtube.com/watch?v=MZsUFm2aQ58)
 
